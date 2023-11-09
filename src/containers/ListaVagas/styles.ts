@@ -11,4 +11,5 @@ export const ListaVagasLiberadas = styled.ul`
     .vagas {
       grid-template-columns: 1fr;
     }
+  }
 `
